@@ -1,5 +1,6 @@
 # TempConv
-Its a simple Celsius to Fahrenheit and vice versa converter made using Rust
+Its a simple Celsius to Fahrenheit and vice versa converter made using Rust.
+
 There are no dependecies except of the std library.
 
 Preview:
